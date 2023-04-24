@@ -7,7 +7,7 @@ date +"%Y-%m-%d %H:%M:%S"
 #日期前一天
 date -d "1 day ago" +"%Y-%m-%d"
 
-date -d "+1 day" "+%Y%m%d"
+date -d "+1 day" +"%Y-%m-%d"
 
 #2秒钟后
 date -d "2 second" +"%Y-%m-%d %H:%M:%S"
