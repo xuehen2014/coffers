@@ -7,5 +7,5 @@
 - Code： https://github.com/gohade/coredemo    【一节课一个分支】
 
 # 7 days golang programs from scratch
-- Code: https://github.com/geektutu/7days-golang
+- Code:  https://github.com/geektutu/7days-golang
 
