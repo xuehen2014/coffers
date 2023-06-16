@@ -127,3 +127,4 @@ row 1 col 1 | row 1 col 2
 row 2 col 1 | row 2 col 2
 
 
+![Redis](./images/redis_001.png "redis缓存雪崩")
