@@ -8,4 +8,5 @@
 
 # 7 days golang programs from scratch
 - Code:  https://github.com/geektutu/7days-golang
+- 作者博客：https://geektutu.com/post/gee.html
 
