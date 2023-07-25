@@ -8,9 +8,7 @@
   - Code: https://github.com/zeromicro/go-zero
   - 文档: https://go-zero.dev/docs/tasks
   - 教程: https://juejin.cn/post/7036011047391592485
-
-- go-zero实战项目
-  - Code: https://github.com/Mikaelemmmm/go-zero-looklook
+  - 项目实战:  https://github.com/Mikaelemmmm/go-zero-looklook
 
 - goFrame
   - Code: https://github.com/gogf/gf
