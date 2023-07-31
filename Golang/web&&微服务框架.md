@@ -13,3 +13,8 @@
 - goFrame
   - Code: https://github.com/gogf/gf
   - 文档: https://goframe.org/display/gf
+
+- Gin框架
+  1. 基于 Gin 从0到1搭建 Web 管理后台系统后端服务
+     - https://juejin.cn/post/7213297003869569081
+     - https://github.com/ian-kevin126/gin_common_web_server
