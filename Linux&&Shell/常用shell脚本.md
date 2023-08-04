@@ -33,8 +33,7 @@
     let start_date=$start_date+24*60*60
   done
 ```
-
-- 检测两台服务器指定目录下的文件一致性     
+  
    ```bash
    #!/bin/bash  
    ######################################  
@@ -62,5 +61,4 @@
    echo "$f deleted."  
    fi  
    done  
-   
    ```
