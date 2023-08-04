@@ -32,8 +32,9 @@
     echo `date "+%Y-%m-%d %H:%M:%S"`
     let start_date=$start_date+24*60*60
   done
-```
+  ```
   
+- 检测两台服务器指定目录下的文件一致性  
    ```bash
    #!/bin/bash  
    ######################################  
@@ -49,16 +50,16 @@
    #将文件名作为遍历对象进行一一比对  
    for f in `awk '{print 2} /tmp/md5_a.txt'`do  
    #以a机器为标准，当b机器不存在遍历对象中的文件时直接输出不存在的结果  
-   if grep -qw "$f" /tmp/md5_b.txt  
+   if grep -qw "$f" /tmp/md5_b.txt 
    then  
    md5_a=`grep -w "$f" /tmp/md5_a.txt|awk '{print 1}'`  
    md5_b=`grep -w "$f" /tmp/md5_b.txt|awk '{print 1}'`  
-   #当文件存在时，如果md5值不一致则输出文件改变的结果  
-   if [ $md5_a != $md5_b ]then  
-   echo "$f changed."  
-   fi  
+       #当文件存在时，如果md5值不一致则输出文件改变的结果  
+       if [ $md5_a != $md5_b ] then  
+         echo "$f changed."  
+       fi  
    else  
-   echo "$f deleted."  
+       echo "$f deleted."  
    fi  
    done  
    ```
