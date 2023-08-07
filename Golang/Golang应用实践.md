@@ -10,3 +10,7 @@
 - Code:  https://github.com/geektutu/7days-golang
 - 作者博客：https://geektutu.com/post/gee.html
 
+# 借助ChatGpt实现协成池（Golang Worker Pool）  
+- Code: https://github.com/devchat-ai/gopool
+- Commit and Prompt: https://pro.devchat.ai/devchat-ai/gopool/index.html
+
