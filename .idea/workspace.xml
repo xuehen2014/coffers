@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="04140a66-0707-45a3-89f2-686e3810a0a9" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/Linux&amp;&amp;Shell/常用shell脚本.md" beforeDir="false" afterPath="$PROJECT_DIR$/Linux&amp;&amp;Shell/常用shell脚本.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySQL/08_实战篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/MySQL/08_实战篇.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/markdown_example.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
+              <first_editor relative-caret-position="2451">
                 <caret line="129" column="37" selection-start-line="129" selection-start-column="37" selection-end-line="129" selection-end-column="37" />
               </first_editor>
               <second_editor />
@@ -24,12 +24,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Linux&amp;&amp;Shell/常用shell脚本.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="404">
-                <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+              <first_editor relative-caret-position="437">
+                <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -76,7 +76,19 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="228">
-                <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+                <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="45" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MySQL/08_实战篇.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="95">
+                <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
               </first_editor>
               <second_editor />
             </state>
@@ -108,6 +120,7 @@
         <option value="$PROJECT_DIR$/markdown_example.md" />
         <option value="$PROJECT_DIR$/Redis/全集系列.md" />
         <option value="$PROJECT_DIR$/Linux&amp;&amp;Shell/常用shell脚本.md" />
+        <option value="$PROJECT_DIR$/MySQL/08_实战篇.md" />
       </list>
     </option>
   </component>
@@ -125,6 +138,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,6 +155,12 @@
               <item name="coffers" type="b2602c69:ProjectViewProjectNode" />
               <item name="coffers" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="coffers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="coffers" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="coffers" type="b2602c69:ProjectViewProjectNode" />
@@ -166,11 +186,6 @@
               <item name="coffers" type="b2602c69:ProjectViewProjectNode" />
               <item name="coffers" type="462c0819:PsiDirectoryNode" />
               <item name="操作系统" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="coffers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="coffers" type="462c0819:PsiDirectoryNode" />
-              <item name="碎片" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="coffers" type="b2602c69:ProjectViewProjectNode" />
@@ -203,7 +218,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,7 +247,7 @@
     <frame x="-85" y="-1175" width="1920" height="1175" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20032224" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17776585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Stocker" order="3" side_tool="true" />
@@ -248,7 +262,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="My Stcok" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32986766" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.25803402" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -315,16 +329,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MySQL/全集系列.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MySQL/全集系列.md" />
     <entry file="file://$PROJECT_DIR$/Golang/Golang应用开发.md" />
     <entry file="file://$PROJECT_DIR$/计算机网络/未命名绘图.drawio" />
     <entry file="file://$PROJECT_DIR$/计算机网络/应用层.md" />
@@ -365,14 +370,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Golang/Go内存分配.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Golang/Go内存分配.md" />
     <entry file="file://$PROJECT_DIR$/操作系统/全集系列.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -397,13 +395,13 @@
       <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/拉勾教育-数据结构与算法面试宝典/01-从简单栈到单调栈-解决经典栈问题.md">
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Golang/Go性能分析.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -416,16 +414,7 @@
     <entry file="file://$PROJECT_DIR$/Golang/ReadMe.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Golang/全集系列.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Golang/全集系列.md" />
     <entry file="file://$PROJECT_DIR$/images/redis_001.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -433,22 +422,18 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="228">
-            <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+            <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="45" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/iShot_2023-08-01_16.26.22.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/iShot_2023-08-01_16.26.24.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/images/iShot_2023-08-01_16.26.22.png" />
+    <entry file="file://$PROJECT_DIR$/images/iShot_2023-08-01_16.26.24.png" />
     <entry file="file://$PROJECT_DIR$/markdown_example.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
+          <first_editor relative-caret-position="2451">
             <caret line="129" column="37" selection-start-line="129" selection-start-column="37" selection-end-line="129" selection-end-column="37" />
           </first_editor>
           <second_editor />
@@ -458,8 +443,8 @@
     <entry file="file://$PROJECT_DIR$/Linux&amp;&amp;Shell/常用shell脚本.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="404">
-            <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
+          <first_editor relative-caret-position="437">
+            <caret line="63" column="9" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
